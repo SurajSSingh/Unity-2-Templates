@@ -1,0 +1,9 @@
+[submodule "Unity-2-Platforming-Game"]
+	path = Unity-2-Platforming-Game
+	url = https://github.com/SurajSSingh/Unity-2-Platforming-Game.git
+[submodule "Unity-2-Tower-Defense-Template"]
+	path = Unity-2-Tower-Defense-Template
+	url = https://github.com/SurajSSingh/Unity-2-Tower-Defense-Template
+[submodule "Unity-2-RPG-Tempate"]
+	path = Unity-2-RPG-Tempate
+	url = https://github.com/SurajSSingh/Unity-2-RPG-Tempate.git
